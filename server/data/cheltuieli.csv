@@ -1,0 +1,663 @@
+Date,Amount,Place,Category,Subcategory,Type,Description
+20/01/2021,10,bacsis foodpanda,porcarii,fastfood,cheltuieli,
+01/01/2021,35,vodafone,facturi,telefon,cheltuieli,
+03/01/2021,60,glovo,porcarii,fastfood,cheltuieli,
+03/01/2021,128,farmacia tei,other,,cheltuieli,
+04/01/2021,58,carrefour,other,,cheltuieli,
+05/01/2021,48,foodpanda,porcarii,fastfood,cheltuieli,
+06/01/2021,40,carrefour,other,,cheltuieli,
+07/01/2021,26,foodpanda,porcarii,fastfood,cheltuieli,
+08/01/2021,44,foodpanda,porcarii,fastfood,cheltuieli,
+13/01/2021,46,foodpanda,porcarii,fastfood,cheltuieli,
+15/01/2021,57,foodpanda,porcarii,fastfood,cheltuieli,
+19/01/2021,53,foodpanda,porcarii,fastfood,cheltuieli,
+20/01/2021,59,foodpanda,porcarii,fastfood,cheltuieli,
+22/01/2021,25,,pentru casa,,cheltuieli,tigaie - bucatarie
+22/01/2021,150,,haine,,cheltuieli,
+23/01/2021,48,,transport,pitesti,cheltuieli,
+24/01/2021,58,,transport,pitesti,cheltuieli,
+02/01/2021,60,,servicii,netflix,cheltuieli,
+07/01/2021,45,foodpanda,other,,cheltuieli,
+10/01/2021,213,carrefour,other,,cheltuieli,
+12/01/2021,45,,servicii,amazonprime,cheltuieli,
+18/01/2021,62,enel,facturi,curent,cheltuieli,
+18/01/2021,40,digi,facturi,internet,cheltuieli,
+20/01/2021,370,,pentru casa,,cheltuieli,topper
+20/01/2021,100,,other,,cheltuieli,
+26/01/2021,1219,,facturi,chirie,cheltuieli,
+27/01/2021,310,,facturi,intretinere,cheltuieli,
+02/02/2021,1219,,facturi,chirie,cheltuieli,
+28/01/2021,10,carrefour,porcarii,,cheltuieli,
+28/01/2021,133,carrefour,alimente,,cheltuieli,
+30/01/2021,57,carrefour,alimente,,cheltuieli,
+30/01/2021,3,carrefour,porcarii,fastfood,cheltuieli,
+31/01/2021,48,foodpanda,porcarii,fastfood,cheltuieli,
+31/01/2021,2,carrefour,alimente,,cheltuieli,
+02/02/2021,75,,other,,cheltuieli,abonament sala
+02/02/2021,59,,servicii,netflix,cheltuieli,
+04/02/2021,32,foodpanda,porcarii,fastfood,cheltuieli,
+04/02/2021,20,,transport,metrorex,cheltuieli,
+04/02/2021,10,,transport,stb,cheltuieli,
+05/02/2021,3,carrefour,porcarii,3in1,cheltuieli,
+06/02/2021,33,vodafone,facturi,telefon,cheltuieli,
+06/02/2021,10,carrefour,porcarii,,cheltuieli,
+06/02/2021,75,carrefour,alimente,,cheltuieli,
+07/02/2021,10,ladoipasi,apa,,cheltuieli,
+07/02/2021,2,ladoipasi,porcarii,,cheltuieli,
+08/02/2021,20,carrefour,porcarii,dulciuri,cheltuieli,
+08/02/2021,28,carrefour,alimente,,cheltuieli,
+09/02/2021,40,,facturi,internet,cheltuieli,
+09/02/2021,321,,facturi,curent,cheltuieli,
+09/02/2021,5,,other,,cheltuieli,pilates
+09/02/2021,3,carrefour,porcarii,suc,cheltuieli,
+09/02/2021,9,carrefour,alimente,,cheltuieli,oua
+10/02/2021,50,foodpanda,porcarii,fastfood,cheltuieli,
+10/02/2021,14,,servicii,amazonprime,cheltuieli,
+13/02/2021,5,cora,porcarii,,cheltuieli,
+13/02/2021,141,cora,alimente,,cheltuieli,
+13/02/2021,8,cora,ingrijire personala,,cheltuieli,
+14/02/2021,6,ladoipasi,porcarii,,cheltuieli,
+14/02/2021,80,,cadouri,other,cheltuieli,flori
+15/02/2021,50,ingrijire personala,ingrijire personala,,cheltuieli,epilare definitiva
+16/02/2021,7,ladoipasi,porcarii,,cheltuieli,
+16/02/2021,45,,servicii,audible,cheltuieli,
+16/02/2021,70,elefan,ingrijire personala,,cheltuieli,skincare
+16/02/2021,29,elefant,other,,cheltuieli,carti cristian presura
+16/02/2021,12,elefant,other,,cheltuieli,transport comanda elefant
+17/02/2021,10,ladoipasi,apa,,cheltuieli,
+17/02/2021,14,ladoipasi,ingrijire personala,,cheltuieli,
+18/02/2021,23,lidl,porcarii,,cheltuieli,
+18/02/2021,7,lidl,alimente,,cheltuieli,
+18/02/2021,24,lidl,alimente,,cheltuieli,
+21/02/2021,20,,transport,metrorex,cheltuieli,
+21/02/2021,40,decathlon,pentru casa,,cheltuieli,
+21/02/2021,36,decathlon,pentru casa,,cheltuieli,
+21/02/2021,21,decathon,haine,,cheltuieli,
+22/02/2021,2,ladoipasi,porcarii,,cheltuieli,
+23/02/2021,5,,other,,cheltuieli,pilates
+23/02/2021,10,ladoipasi,apa,,cheltuieli,
+26/02/2021,35,boltfood,mancare comandata,,cheltuieli,ciorbica
+20/02/2021,58,carrefour,alimente,,cheltuieli,
+20/02/2021,9,carrefour,porcarii,,cheltuieli,
+20/02/2021,11,carrefour,alimente,,cheltuieli,
+25/02/2021,22,auchan,porcarii,,cheltuieli,
+25/02/2021,108,auchan,alimente,,cheltuieli,
+25/02/2021,30,auchan,alimente,,cheltuieli,
+25/02/2021,5,auchan,other,,cheltuieli,
+01/03/2021,1218,casa,facturi,chirie,cheltuieli,
+27/02/2021,90,lidl,alimente,,cheltuieli,
+27/02/2021,20,lidl,porcarii,,cheltuieli,
+27/02/2021,20,,transport,metrorex,cheltuieli,
+27/02/2021,16,,haine,,cheltuieli,
+27/02/2021,25,,other,,cheltuieli,
+27/02/2021,11,carrefour,alimente,,cheltuieli,
+28/02/2021,230,casa,facturi,intretinere,cheltuieli,
+28/02/2021,11,mcdonalds,porcarii,fastfood,cheltuieli,
+01/03/2021,20,florarie,cadouri,other,cheltuieli,flori irinuta
+02/03/2021,27,,ingrijire personala,,cheltuieli,cosmetice
+02/03/2021,3,ladoipasi,porcarii,,cheltuieli,
+02/03/2021,75,,other,,cheltuieli,pillates
+05/03/2021,1500,,donatii,,cheltuieli,cami
+02/03/2021,59,,servicii,netflix,cheltuieli,
+03/03/2021,53,uverturii,porcarii,fastfood,cheltuieli,
+03/03/2021,13,ladoipasi,apa,,cheltuieli,
+03/03/2021,6,ladoipasi,porcarii,,cheltuieli,
+04/03/2021,105,kaufland,alimente,,cheltuieli,
+04/03/2021,10,kaufland,apa,,cheltuieli,
+06/03/2021,48,ionescu,transport,pitesti,cheltuieli,
+06/03/2021,60,pitesti,cadouri,other,cheltuieli,flori pitesti 
+07/03/2021,48,ionescu,transport,pitesti,cheltuieli,
+07/03/2021,40,,facturi,internet,cheltuieli,
+07/03/2021,4,ladoipasi,porcarii,,cheltuieli,
+07/03/2021,10,,cadouri,other,cheltuieli,
+10/03/2021,391,,vacanta,cazare,cheltuieli,
+09/03/2021,7,carrefour,porcarii,,cheltuieli,
+09/03/2021,9,carrefour,alimente,,cheltuieli,
+11/03/2021,8,ladoipasi,porcarii,,cheltuieli,
+13/03/2021,4,,vacanta,transport,cheltuieli,
+14/03/2021,4,,vacanta,transport,cheltuieli,
+14/03/2021,79,,vacanta,transport,cheltuieli,
+12/03/2021,14,amazon prime,servicii,amazonprime,cheltuieli,
+12/03/2021,63,,vacanta,mancare,cheltuieli,
+12/03/2021,45,,vacanta,mancare,cheltuieli,
+12/03/2021,37,,vacanta,transport,cheltuieli,
+12/03/2021,34,carrefour,vacanta,other,cheltuieli,
+13/03/2021,120,,vacanta,activitati,cheltuieli,
+13/03/2021,130,,vacanta,mancare,cheltuieli,
+13/03/2021,120,,vacanta,activitati,cheltuieli,
+13/03/2021,43,,vacanta,mancare,cheltuieli,
+13/03/2021,35,vodafone,facturi,telefon,cheltuieli,
+15/03/2021,42,foodpanda,porcarii,fastfood,cheltuieli,
+15/03/2021,3,piata,alimente,,cheltuieli,
+16/03/2021,250,,facturi,intretinere,cheltuieli,
+18/03/2021,133,enel,facturi,curent,cheltuieli,
+17/03/2021,3,kaufland,other,,cheltuieli,sacosa
+17/03/2021,11,kaufland,apa,,cheltuieli,
+17/03/2021,12,kaufland,porcarii,,cheltuieli,
+17/03/2021,7,kaufland,ingrijire personala,,cheltuieli,pasta de dinti
+17/03/2021,54,kaufland,alimente,,cheltuieli,
+19/03/2021,4,kaufland,other,,cheltuieli,
+19/03/2021,104,kaufland,alimente,,cheltuieli,
+19/03/2021,104,cadouri,cadouri,other,cheltuieli,cadou gg joc
+22/03/2021,5,carrefour,porcarii,,cheltuieli,
+22/03/2021,31,carrefour,alimente,,cheltuieli,
+21/03/2021,50,glovo,porcarii,fastfood,cheltuieli,
+21/03/2021,63,kfc,porcarii,fastfood,cheltuieli,
+25/03/2021,100,cadouri,cadouri,other,cheltuieli,mama
+27/03/2021,25,steam,other,,cheltuieli,jocuri steam
+26/03/2021,10,carrefour,alimente,,cheltuieli,
+26/03/2021,5,carrefour,porcarii,,cheltuieli,
+27/03/2021,135,diverta,other,,cheltuieli,pandemic
+26/03/2021,4,kaufland,other,,cheltuieli,sacosa kaufland
+26/03/2021,2,kaufland,porcarii,,cheltuieli,
+26/03/2021,71,kaufland,alimente,,cheltuieli,
+24/03/2021,7,ladoipasi,apa,,cheltuieli,
+26/03/2021,11,kaufland,apa,,cheltuieli,
+27/03/2021,20,metrorex,transport,metrorex,cheltuieli,
+27/03/2021,50,burgerking,porcarii,fastfood,cheltuieli,
+27/03/2021,620,lensa,other,,cheltuieli,ochelari radu
+27/03/2021,46,pepco,pentru casa,,cheltuieli,
+28/03/2021,3,ladoipasi,porcarii,,cheltuieli,
+28/03/2021,14,ladoipasi,ingrijire personala,,cheltuieli,hartie igienica
+28/03/2021,2,ladoipasi,alimente,,cheltuieli,
+27/03/2021,30,sinsay,haine,,cheltuieli,pijamale
+27/03/2021,23,miso,ingrijire personala,,cheltuieli,perie fata
+27/03/2021,39,miso,pentru casa,,cheltuieli,perna gat
+31/03/2021,40,taxi,transport,adjudeni,cheltuieli,
+31/03/2021,263,cfr,transport,adjudeni,cheltuieli,
+31/03/2021,23,KFC,porcarii,fastfood,cheltuieli,
+31/03/2021,6,carrefour,porcarii,,cheltuieli,
+30/03/2021,16,ladoipasi,alimente,,cheltuieli,
+04/04/2021,10,biserica,donatii,,cheltuieli,
+04/04/2021,56,netflix,servicii,netflix,cheltuieli,
+06/04/2021,14,amazon,servicii,amazonprime,cheltuieli,
+06/04/2021,7,ladoipasi,porcarii,,cheltuieli,
+11/04/2021,22,piata,alimente,,cheltuieli,
+09/04/2021,138,foodpanda,porcarii,fastfood,cheltuieli,
+11/04/2021,47,carrefour,alimente,,cheltuieli,
+11/04/2021,2,carrefour,porcarii,,cheltuieli,
+08/04/2021,40,,servicii,internet,cheltuieli,
+09/04/2021,42,carrefour,alimente,,cheltuieli,
+09/04/2021,60,carrefour,porcarii,,cheltuieli,
+10/04/2021,10,,pentru casa,,cheltuieli,
+10/04/2021,10,,porcarii,,cheltuieli,
+10/04/2021,10,,pentru casa,curatenie,cheltuieli,
+10/04/2021,7,carrefour,alimente,,cheltuieli,
+10/04/2021,10,carrefour,porcarii,,cheltuieli,
+08/04/2021,10,auchan,apa,,cheltuieli,
+08/04/2021,6,auchan,pentru casa,other,cheltuieli,sacosa
+08/04/2021,11,auchan,pentru casa,curatenie,cheltuieli,
+08/04/2021,34,auchan,porcarii,,cheltuieli,
+08/04/2021,90,auchan,alimente,,cheltuieli,
+11/04/2021,132,enel,facturi,curent,cheltuieli,
+04/03/2021,10,kaufland,porcarii,,cheltuieli,
+13/01/2021,16144,,salariu,radu,venit,
+15/02/2021,15778,,salariu,radu,venit,
+19/03/2021,15778,,salariu,radu,venit,
+12/01/2021,4929,,salariu,irina,venit,
+25/01/2021,4000,,salariu,irina,venit,
+11/02/2021,4000,,salariu,irina,venit,
+25/02/2021,4000,,salariu,irina,venit,
+11/03/2021,4000,,salariu,irina,venit,
+25/03/2021,4000,,salariu,irina,venit,
+09/04/2021,4000,,salariu,irina,venit,
+14/04/2021,220,,facturi,intretinere,cheltuieli,
+14/04/2021,18300,,salariu,radu,venit,
+14/04/2021,1210,,facturi,chirie,cheltuieli,
+14/04/2021,95,,other,,cheltuieli,
+17/04/2021,3,lidl,apa,,cheltuieli,
+17/04/2021,35,lidl,ingrijire personala,,cheltuieli,
+17/04/2021,16,lidl,porcarii,,cheltuieli,
+17/04/2021,190,lidl,alimente,,cheltuieli,
+16/04/2021,66,burgerking,porcarii,fastfood,cheltuieli,
+16/04/2021,33,foodpanda,alimente,,cheltuieli,
+12/04/2021,14,,servicii,amazonprime,cheltuieli,
+16/04/2021,35,vodafone,facturi,telefon,cheltuieli,
+16/04/2021,7,ladoipasi,apa,,cheltuieli,
+18/04/2021,93,carrefour,alimente,,cheltuieli,
+19/04/2021,19,auchan,apa,,cheltuieli,
+19/04/2021,13,auchan,ingrijire personala,,cheltuieli,
+19/04/2021,6,auchan,porcarii,,cheltuieli,
+19/04/2021,23,auchan,alimente,,cheltuieli,
+22/04/2021,10,,ingrijire personala,,cheltuieli,
+22/04/2021,22,,ingrijire personala,,cheltuieli,
+22/04/2021,13,,alimente,,cheltuieli,
+22/04/2021,14,piata,alimente,,cheltuieli,
+22/04/2021,50,uverturii,porcarii,fastfood,cheltuieli,
+24/04/2021,28,pepco,pentru casa,,cheltuieli,
+24/04/2021,25,,pentru casa,curatenie,cheltuieli,
+24/04/2021,250,jumbo,pentru casa,,cheltuieli,
+24/04/2021,4000,salariu,salariu,irina,venit,
+25/04/2021,23,piata,alimente,,cheltuieli,
+25/04/2021,3,piata,pentru casa,,cheltuieli,
+25/04/2021,7,carrefour,porcarii,,cheltuieli,
+25/04/2021,39,carrefour,alimente,,cheltuieli,
+26/04/2021,40,salon,ingrijire personala,tuns,cheltuieli,
+27/04/2021,10,mega,alimente,,cheltuieli,
+27/04/2021,5,mega,apa,,cheltuieli,
+27/04/2021,13,mega,porcarii,,cheltuieli,
+27/04/2021,7,mega,alimente,,cheltuieli,
+28/04/2021,70,cfr,transport,pitesti,cheltuieli,
+27/04/2021,200,regina maria,other,,cheltuieli,analize irina
+27/04/2021,12,help net,medicamente,,cheltuieli,
+21/04/2021,2,ladoipasi,porcarii,,cheltuieli,
+21/04/2021,3,donatii,donatii,,cheltuieli,
+29/04/2021,6,mega,apa,,cheltuieli,
+03/05/2021,50,,transport,pitesti,cheltuieli,
+03/05/2021,60,servicii,servicii,netflix,cheltuieli,
+30/04/2021,3,gara,alimente,,cheltuieli,
+30/04/2021,10,gara,porcarii,,cheltuieli,
+01/05/2021,310,,cadouri,other,cheltuieli,tati
+01/05/2021,15,auchan,porcarii,dulciuri,cheltuieli,
+01/05/2021,45,auchan,alimente,,cheltuieli,
+03/05/2021,97,emag,ingrijire personala,,cheltuieli,radiere
+04/05/2021,7,ladoipasi,alimente,,cheltuieli,
+05/05/2021,5,auchan,other,,cheltuieli,sacosa
+05/05/2021,13,auchan,apa,,cheltuieli,
+05/05/2021,3,auchan,porcarii,,cheltuieli,
+05/05/2021,42,auchan,alimente,,cheltuieli,
+04/05/2021,3,carrefour,porcarii,,cheltuieli,
+04/05/2021,5,carrefour,alimente,,cheltuieli,
+06/05/2021,50,emag,pentru casa,,cheltuieli,filtru aspirator
+06/05/2021,17,floris,pentru casa,,cheltuieli,pamant orhidee
+06/05/2021,12,floris,pentru casa,,cheltuieli,ingrasamant orhidee
+06/05/2021,64,camionetta,porcarii,fastfood,cheltuieli,
+06/05/2021,40,servicii,facturi,internet,cheltuieli,
+08/05/2021,75,enel,facturi,curent,cheltuieli,
+08/05/2021,11,carrefour,apa,,cheltuieli,
+08/05/2021,36,carrefour,alimente,,cheltuieli,
+08/05/2021,1,carrefour,porcarii,,cheltuieli,
+08/05/2021,29,carrefour,alimente,,cheltuieli,
+07/05/2021,1232,,facturi,chirie,cheltuieli,
+07/05/2021,4000,,salariu,irina,venit,
+09/05/2021,6,piata,alimente,,cheltuieli,pere
+11/05/2021,7,ladoipasi,porcarii,,cheltuieli,
+11/05/2021,14,,porcarii,,cheltuieli,
+11/05/2021,13,mega,alimente,,cheltuieli,
+12/05/2021,40,furgoneta,porcarii,fastfood,cheltuieli,
+12/05/2021,"5,75",carrefour,apa,,cheltuieli,
+12/05/2021,25,altex,pentru casa,,cheltuieli,cablu net
+13/05/2021,16568,,salariu,radu,venit,
+13/05/2021,"5,75",carrefour,apa,,cheltuieli,
+13/05/2021,"8,49",carrefour,alimente,,cheltuieli,paine
+13/05/2021,"8,35",carrefour,alimente,,cheltuieli,icre
+13/05/2021,"16,5",carrefour,alimente,,cheltuieli,sunca praga
+15/05/2021,9,piata,alimente,,cheltuieli,capsuni
+15/05/2021,1,piata,alimente,,cheltuieli,morcovi
+15/05/2021,4,piata,alimente,,cheltuieli,rosii
+15/05/2021,4,piata,alimente,,cheltuieli,ardei capia
+15/05/2021,2,piata,alimente,,cheltuieli,ceapa
+15/05/2021,"10,8",carrefour,alimente,,cheltuieli,unt
+15/05/2021,"5,85",carrefour,alimente,,cheltuieli,lapte
+15/05/2021,25,carrefour,alimente,,cheltuieli,ulei cocos
+15/05/2021,5,carrefour,alimente,,cheltuieli,biscuiti
+15/05/2021,"9,24",carrefour,alimente,,cheltuieli,varza murata
+15/05/2021,"12,2",carrefour,alimente,,cheltuieli,somon
+15/05/2021,3,carrefour,alimente,,cheltuieli,soia noodles
+15/05/2021,"3,4",carrefour,porcarii,,cheltuieli,chipsuri
+15/05/2021,"6,6",carrefour,porcarii,,cheltuieli,chipsuri
+15/05/2021,"1,45",carrefour,alimente,,cheltuieli,ciocolata
+12/05/2021,14,amazon,servicii,amazonprime,cheltuieli,
+14/05/2021,77,weis beer,porcarii,fastfood,cheltuieli,
+15/05/2021,21,dolci coni,other,,cheltuieli,inghetata
+15/05/2021,20,stb,transport,stb,cheltuieli,
+22/05/2021,"212,2",,facturi,intretinere,cheltuieli,
+20/05/2021,"3,5",carrefour,alimente,,cheltuieli,faina
+21/05/2021,"2,65",carrefour,alimente,,cheltuieli,zahar
+22/05/2021,"6,85",carrefour,alimente,,cheltuieli,actimel
+23/05/2021,4,carrefour,alimente,,cheltuieli,cocos
+24/05/2021,"1,5",carrefour,alimente,,cheltuieli,ciocolata
+25/05/2021,"7,55",carrefour,alimente,,cheltuieli,branza
+19/05/2021,"5,75",carrefour,apa,,cheltuieli,
+20/05/2021,"6,85",carrefour,alimente,,cheltuieli,actimel
+21/05/2021,"1,2",carrefour,porcarii,3in1,cheltuieli,
+22/05/2021,"7,5",carrefour,alimente,,cheltuieli,
+21/05/2021,840,emag,other,,cheltuieli,telefon radu
+20/05/2021,25,metrou,transport,metrorex,cheltuieli,
+20/05/2021,50,florarie,cadouri,other,cheltuieli,flori
+21/05/2021,"3,7",mega,porcarii,chipsuri,cheltuieli,
+22/05/2021,5,mega,porcarii,chipsuri,cheltuieli,
+23/05/2021,"6,5",mega,alimente,,cheltuieli,suc
+24/05/2021,5,mega,alimente,,cheltuieli,arahide
+25/05/2021,"13,5",mega,alimente,,cheltuieli,suc
+26/05/2021,5,mega,porcarii,chipsuri,cheltuieli,
+11/05/2021,"7,16",mega,alimente,,cheltuieli,smantana
+12/05/2021,"7,27",mega,alimente,,cheltuieli,iaurt
+23/05/2021,6,ladoipasi,alimente,,cheltuieli,lapte
+23/05/2021,4000,,salariu,irina,venit,
+23/05/2021,"3,25",carrefour,alimente,,cheltuieli,pate
+24/05/2021,"13,7",carrefour,alimente,,cheltuieli,sunca praga
+25/05/2021,"14,5",carrefour,alimente,,cheltuieli,cascaval
+26/05/2021,"8,6",carrefour,alimente,,cheltuieli,icre
+27/05/2021,1,carrefour,alimente,,cheltuieli,rosii
+30/05/2021,228,,facturi,intretinere,cheltuieli,
+29/05/2021,55,dolci coni,other,,cheltuieli,inghetata
+29/05/2021,"1,4",ladoipasi,porcarii,3in1,cheltuieli,
+25/05/2021,20,metrorex,transport,metrorex,cheltuieli,
+25/05/2021,28,piata,alimente,,cheltuieli,
+30/05/2021,328,lifebox,alimente,,cheltuieli,
+28/05/2021,"35,37",taksim,porcarii,fastfood,cheltuieli,
+26/05/2021,50,southburger,porcarii,fastfood,cheltuieli,
+25/05/2021,"5,75",carrefour,apa,,cheltuieli,
+26/05/2021,2,carrefour,porcarii,3in1,cheltuieli,
+27/05/2021,"2,55",carrefour,apa,,cheltuieli,
+28/05/2021,"6,85",carrefour,alimente,,cheltuieli,
+29/05/2021,"5,93",mega,apa,,cheltuieli,
+30/05/2021,"1,6",mega,porcarii,3in1,cheltuieli,
+31/05/2021,"5,81",mega,alimente,,cheltuieli,
+01/06/2021,52,,donatii,,cheltuieli,
+01/06/2021,"23,22",catena,medicamente,,cheltuieli,
+01/06/2021,15,cofetarie,other,,cheltuieli,prajituri
+01/06/2021,"2,6",carrefour,porcarii,,cheltuieli,3in1
+01/06/2021,"12,54",carrefour,alimente,,cheltuieli,actimel
+01/06/2021,"5,85",carrefour,alimente,,cheltuieli,lapte
+01/06/2021,"4,58",carrefour,alimente,,cheltuieli,biscuiti
+01/06/2021,"5,75",carrefour,apa,,cheltuieli,
+01/06/2021,"4,35",carrefour,alimente,,cheltuieli,pepene verde
+07/06/2021,1230,,facturi,chirie,cheltuieli,
+06/06/2021,85,relaxare,other,,cheltuieli,prajituri
+02/06/2021,59,netflix,servicii,netflix,cheltuieli,
+11/06/2021,14,amazon,servicii,amazonprime,cheltuieli,
+04/06/2021,"5,93",mega,apa,,cheltuieli,
+04/06/2021,"8,32",carrefour,ingrijire personala,,cheltuieli,hartie igienica
+06/06/2021,"5,2",carrefour,pentru casa,,cheltuieli,saci
+06/06/2021,"1,56",carrefour,porcarii,3in1,cheltuieli,
+06/06/2021,"19,95",carrefour,alimente,,cheltuieli,branza
+06/06/2021,23,carrefour,ingrijire personala,,cheltuieli,gel de dus
+06/06/2021,"1,02",carrefour,alimente,,cheltuieli,rosii
+06/06/2021,"3,4",carrefour,alimente,,cheltuieli,cartofi
+06/06/2021,3,carrefour,alimente,,cheltuieli,mango
+06/06/2021,"3,1",carrefour,alimente,,cheltuieli,amidon alimentar
+06/06/2021,"2,19",carrefour,alimente,,cheltuieli,banane
+06/06/2021,"0,62",carrefour,alimente,,cheltuieli,ardei capia
+06/06/2021,"5,3",carrefour,alimente,,cheltuieli,prune
+06/06/2021,"1,2",carrefour,alimente,,cheltuieli,marar
+06/06/2021,4,carrefour,alimente,,cheltuieli,legume
+06/06/2021,26,emag,ingrijire personala,,cheltuieli,clopotel
+09/06/2021,"2,2",mega,apa,,cheltuieli,
+09/06/2021,"5,8",mega,alimente,,cheltuieli,lapte
+08/06/2021,164,lifebox,alimente,,cheltuieli,lifebox
+08/06/2021,10,catalin,other,,cheltuieli,pariuri - euro
+08/06/2021,101,emag,apa,,cheltuieli,
+11/06/2021,14,amazon,servicii,amazonprime,cheltuieli,
+09/06/2021,36,boltfood,alimente,other,cheltuieli,strudele
+08/06/2021,85,emag,pentru casa,,cheltuieli,jaluzele
+10/06/2021,4000,,salariu,irina,venit,
+21/06/2021,50,max,transport,pitesti,cheltuieli,
+21/06/2021,40,digi,facturi,internet,cheltuieli,
+21/06/2021,"68,6",enel,facturi,curent,cheltuieli,
+21/06/2021,"16,74",lidl,apa,,cheltuieli,
+21/06/2021,95,-,cadouri,other,cheltuieli,mami
+21/06/2021,35,auchan,alimente,,cheltuieli,sampanie
+21/06/2021,6,mega,alimente,,cheltuieli,lapte
+21/06/2021,15,mega,alimente,,cheltuieli,somon
+18/06/2021,48,,transport,pitesti,cheltuieli,
+14/06/2021,2500,teilor,cadouri,other,cheltuieli,inel irina
+14/06/2021,15,spark,servicii,spark,cheltuieli,
+17/06/2021,55,boltfood,porcarii,fastfood,cheltuieli,pizza
+17/06/2021,"7,36",auchan,alimente,,cheltuieli,branza
+14/06/2021,16568,,salariu,radu,venit,
+21/06/2021,4000,,salariu,irina,venit,
+25/06/2021,176,mamizza,porcarii,fastfood,cheltuieli,
+26/06/2021,141,,facturi,intretinere,cheltuieli,
+28/06/2021,"23,5",voyo,servicii,voyo,cheltuieli,
+28/06/2021,34,sveto,porcarii,fastfood,cheltuieli,
+23/06/2021,"6,5",pepco,pentru casa,,cheltuieli,
+24/06/2021,1000,wizzair,vacanta,transport,cheltuieli,
+10/06/2021,192,therme,other,,cheltuieli,therme
+17/06/2021,179,emag,cadouri,other,cheltuieli,ali
+17/06/2021,35,vodafone,facturi,telefon,cheltuieli,
+28/06/2021,214,bebetei,ingrijire personala,,cheltuieli,
+28/06/2021,170,penti,haine,,cheltuieli,
+28/06/2021,84,cinemacity,other,,cheltuieli,cinemacity
+28/06/2021,24,catena,medicamente,,cheltuieli,
+28/06/2021,177,carrefour,alimente,,cheltuieli,
+28/06/2021,"10,5",mega,alimente,,cheltuieli,
+28/06/2021,82,carrefour,alimente,,cheltuieli,
+28/06/2021,21,auchan,pentru casa,,cheltuieli,
+23/06/2021,32,kfc,porcarii,fastfood,cheltuieli,
+29/06/2021,129,emag,cadouri,,cheltuieli,tata
+30/06/2021,54,emag,cadouri,,cheltuieli,irina
+01/07/2021,59,netflix,servicii,netflix,cheltuieli,
+30/06/2021,18,mcdonalds,porcarii,fastfood,cheltuieli,
+30/06/2021,50,sinsay,haine,,cheltuieli,
+30/06/2021,1300,airbnb,vacanta,cazare,cheltuieli,
+30/06/2021,627,airbnb,vacanta,cazare,cheltuieli,
+01/07/2021,"72,5",carrefour,alimente,,cheltuieli,
+06/07/2021,80,sapori,other,,cheltuieli,sapori bd
+05/07/2021,"2,1",ladoipasi,porcarii,,cheltuieli,
+05/07/2021,270,divertyland,other,,cheltuieli,divertiland
+05/07/2021,"6,93",carrefour,alimente,,cheltuieli,smantana
+05/07/2021,2,carrefour,alimente,,cheltuieli,paine
+05/07/2021,"3,23",carrefour,alimente,,cheltuieli,ardei rosu
+06/07/2021,"3,28",mega,alimente,,cheltuieli,mustar
+06/07/2021,"6,49",carrefour,alimente,,cheltuieli,lapte
+06/07/2021,8,carrefour,alimente,,cheltuieli,cafea
+06/07/2021,"8,79",carrefour,alimente,,cheltuieli,sos maioneza
+06/07/2021,"3,39",carrefour,alimente,,cheltuieli,pate pui
+06/07/2021,"3,2",carrefour,alimente,,cheltuieli,pate porc
+06/07/2021,"7,7",carrefour,alimente,,cheltuieli,bacon
+06/07/2021,"7,6",carrefour,alimente,,cheltuieli,sunca curcan
+06/07/2021,"13,38",carrefour,alimente,,cheltuieli,actimel
+06/07/2021,4,carrefour,alimente,,cheltuieli,banane
+06/07/2021,"7,34",carrefour,alimente,,cheltuieli,rosii
+06/07/2021,"3,1",carrefour,alimente,,cheltuieli,paine
+06/07/2021,"8,62",carrefour,alimente,,cheltuieli,piept pui
+06/07/2021,"3,5",carrefour,alimente,,cheltuieli,chifle hotdog
+06/07/2021,"3,4",carrefour,porcarii,,cheltuieli,cipsuri
+07/07/2021,"3,3",auchan,alimente,,cheltuieli,paine
+07/07/2021,9,auchan,alimente,,cheltuieli,afine
+07/07/2021,"16,9",auchan,alimente,,cheltuieli,crispy pui
+07/07/2021,"9,8",auchan,alimente,,cheltuieli,mozzarella sticks
+07/07/2021,"18,47",auchan,ingrijire personala,,cheltuieli,sampon
+03/07/2021,"7,49",lidl,alimente,,cheltuieli,pizza
+03/07/2021,"10,99",lidl,alimente,,cheltuieli,pizza
+03/07/2021,"4,99",lidl,alimente,,cheltuieli,cartofi pajiti
+03/07/2021,"9,99",lidl,alimente,,cheltuieli,pui
+03/07/2021,"9,99",lidl,alimente,,cheltuieli,branza
+03/07/2021,"9,99",lidl,alimente,,cheltuieli,branza
+03/07/2021,"12,29",lidl,alimente,,cheltuieli,cacao
+03/07/2021,"3,38",lidl,porcarii,,cheltuieli,
+03/07/2021,"2,49",lidl,alimente,,cheltuieli,iaurt
+03/07/2021,"15,98",lidl,alimente,,cheltuieli,salata ton
+03/07/2021,"9,99",lidl,alimente,,cheltuieli,iaurt
+03/07/2021,"5,69",lidl,alimente,,cheltuieli,lapte
+03/07/2021,"3,99",lidl,alimente,,cheltuieli,ciocolata
+03/07/2021,"4,89",lidl,alimente,,cheltuieli,ciocolata
+03/07/2021,"1,8",lidl,alimente,,cheltuieli,ciocolata
+03/07/2021,"0,59",lidl,alimente,,cheltuieli,condimente
+03/07/2021,"4,79",lidl,alimente,,cheltuieli,ciocolata
+03/07/2021,"8,99",lidl,alimente,,cheltuieli,ciocolata
+03/07/2021,"2,79",lidl,alimente,,cheltuieli,ciocolata
+25/06/2021,35,vodafone,facturi,telefon,cheltuieli,
+08/07/2021,92,furgoneta,porcarii,fastfood,cheltuieli,
+08/07/2021,40,digi,facturi,internet,cheltuieli,
+08/07/2021,"104,78",enel,facturi,curent,cheltuieli,
+08/07/2021,"1231,71",-,facturi,chirie,cheltuieli,
+09/07/2021,4000,-,salariu,irina,venit,
+18/07/2021,5,bolt,transport,,cheltuieli,
+14/07/2021,16568,-,salariu,radu,venit,
+15/07/2021,467,getyourguide,vacanta,activitati,cheltuieli,
+15/07/2021,334,-,vacanta,other,cheltuieli,
+15/07/2021,108,-,vacanta,transport,cheltuieli,
+15/07/2021,1383,-,vacanta,mancare,cheltuieli,
+11/07/2021,"8,6",megaimage,porcarii,,cheltuieli,
+10/07/2021,20,sinsay,pantofi,,cheltuieli,balerini
+10/07/2021,30,sinsay,other,,cheltuieli,geanta
+10/07/2021,16,sinsay,other,,cheltuieli,ochelari
+10/07/2021,40,ca,other,,cheltuieli,geanta
+10/07/2021,"5,81",mega,alimente,,cheltuieli,lapte
+11/07/2021,"2,9",auchan,porcarii,suc,cheltuieli,
+11/07/2021,12,auchan,ingrijire personala,,cheltuieli,periute
+11/07/2021,"2,7",auchan,alimente,,cheltuieli,
+11/07/2021,13,auchan,porcarii,,cheltuieli,
+08/08/2021,40,digi,facturi,internet,cheltuieli,
+25/07/2021,163,-,facturi,intretinere,cheltuieli,
+08/08/2021,88,enel,facturi,curent,cheltuieli,
+01/08/2021,1228,-,facturi,chirie,cheltuieli,
+30/07/2021,1500,-,cadouri,nunti,cheltuieli,ali
+21/07/2021,4000,-,salariu,irina,venit,
+14/08/2021,8000,-,salariu,irina,venit,
+14/08/2021,16568,-,salariu,radu,venit,
+22/08/2021,160,-,facturi,intretinere,cheltuieli,
+22/08/2021,60,-,alimente,,cheltuieli,
+22/08/2021,10,-,alimente,,cheltuieli,
+22/08/2021,55,glovo,porcarii,fastfood,cheltuieli,
+22/08/2021,180,-,vacanta,transport,cheltuieli,
+22/08/2021,50,-,vacanta,mancare,cheltuieli,
+22/08/2021,360,-,vacanta,cazare,cheltuieli,
+22/08/2021,52,-,vacanta,mancare,cheltuieli,
+22/08/2021,120,-,vacanta,mancare,cheltuieli,
+22/08/2021,70,-,vacanta,activitati,cheltuieli,
+22/08/2021,70,-,vacanta,mancare,cheltuieli,
+22/08/2021,66,-,vacanta,mancare,cheltuieli,
+22/08/2021,40,-,vacanta,mancare,cheltuieli,
+22/08/2021,14,amazon,servicii,amazonprime,cheltuieli,
+22/08/2021,"2,3",la doi pasi,porcarii,,cheltuieli,
+22/08/2021,55,glovo,porcarii,fastfood,cheltuieli,
+22/08/2021,125,amazon,servicii,aws,cheltuieli,
+22/08/2021,59,-,porcarii,fastfood,cheltuieli,
+22/08/2021,39,-,porcarii,fastfood,cheltuieli,
+22/08/2021,45,-,porcarii,fastfood,cheltuieli,
+22/08/2021,90,-,vacanta,mancare,cheltuieli,
+05/08/2021,145,lid,alimente,,cheltuieli,
+05/08/2021,15,lidl,porcarii,dulciuri,cheltuieli,
+05/08/2021,10,lidl,ingrijire personala,,cheltuieli,
+25/07/2021,59,carrefour,alimente,,cheltuieli,
+03/08/2021,25,metrorex,transport,metrorex,cheltuieli,
+03/08/2021,48,-,transport,pitesti,cheltuieli,
+28/06/2021,109,-,haine,,cheltuieli,costum de baie
+27/07/2021,25,sensiblu,medicamente,,cheltuieli,
+27/07/2021,"5,2",carrefour,alimente,,cheltuieli,
+27/07/2021,10,carrefour,porcarii,,cheltuieli,
+27/07/2021,35,auchan,alimente,,cheltuieli,
+11/08/2021,23,auchan,pentru casa,curatenie,cheltuieli,
+11/08/2021,32,auchan,apa,,cheltuieli,
+11/08/2021,"122,3",auchan,alimente,,cheltuieli,
+11/08/2021,45,auchan,ingrijire personala,,cheltuieli,
+07/08/2021,5,carrefour,porcarii,3in1,cheltuieli,
+07/08/2021,"24,7",carrefour,alimente,,cheltuieli,
+17/08/2021,"2,6",carrefour,porcarii,3in1,cheltuieli,
+17/08/2021,10,carrefour,porcarii,,cheltuieli,
+17/08/2021,52,carrefour,alimente,,cheltuieli,
+24/07/2021,10,carrefour,porcarii,,cheltuieli,
+24/07/2021,"2,6",carrefour,porcarii,3in1,cheltuieli,
+24/07/2021,"10,5",carrefour,ingrijire personala,,cheltuieli,
+24/07/2021,96,carrefour,alimente,,cheltuieli,
+22/07/2021,"2,6",carrefour,porcarii,3in1,cheltuieli,
+22/07/2021,5,carrefour,porcarii,,cheltuieli,
+22/07/2021,"6,8",carrefour,ingrijire personala,,cheltuieli,
+22/07/2021,40,carrefour,alimente,,cheltuieli,
+22/08/2021,20,-,vacanta,mancare,cheltuieli,
+22/08/2021,30,-,vacanta,other,cheltuieli,
+22/08/2021,10,-,vacanta,transport,cheltuieli,
+23/08/2021,127,-,porcarii,fastfood,cheltuieli,
+23/08/2021,22,-,porcarii,fastfood,cheltuieli,
+24/08/2021,6,metrorex,transport,metrorex,cheltuieli,
+24/08/2021,43,-,vacanta,mancare,cheltuieli,
+24/08/2021,278,-,vacanta,transport,cheltuieli,
+24/08/2021,420,-,vacanta,mancare,cheltuieli,
+01/09/2021,"50,5",-,porcarii,fastfood,cheltuieli,
+01/09/2021,60,netflix,servicii,netflix,cheltuieli,
+02/09/2021,"57,2",-,porcarii,fastfood,cheltuieli,
+01/09/2021,"15,57",carrefour,alimente,,cheltuieli,
+05/09/2021,23,-,haine,,cheltuieli,
+05/09/2021,25,-,haine,,cheltuieli,
+05/09/2021,5,-,pentru casa,,cheltuieli,
+05/09/2021,20,-,pantofi,,cheltuieli,
+05/09/2021,"3,6",lidl,alimente,,cheltuieli,
+05/09/2021,15,lidl,porcarii,dulciuri,cheltuieli,
+05/09/2021,"3,5",-,alimente,,cheltuieli,
+05/09/2021,6,-,apa,,cheltuieli,
+05/09/2021,34,-,alimente,,cheltuieli,
+19/08/2021,"8,9",-,porcarii,,cheltuieli,
+19/08/2021,44,-,alimente,,cheltuieli,
+04/09/2021,12,-,apa,,cheltuieli,
+24/08/2021,"3,5",-,alimente,,cheltuieli,
+25/07/2021,22,pepco,pentru casa,,cheltuieli,
+04/09/2021,"16,5",carrefour,alimente,,cheltuieli,
+04/09/2021,20,-,porcarii,fastfood,cheltuieli,
+04/09/2021,188,-,cadouri,other,cheltuieli,costel&anca
+04/09/2021,"18,5",-,other,,cheltuieli,machiaj
+05/09/2021,181,-,vacanta,transport,cheltuieli,
+05/09/2021,272,-,vacanta,transport,cheltuieli,
+05/09/2021,100,-,servicii,genius,cheltuieli,
+03/09/2021,35,vodafone,facturi,telefon,cheltuieli,
+26/08/2021,25,metrorex,transport,metrorex,cheltuieli,
+20/08/2021,72,-,other,,cheltuieli,lentile de contact
+19/08/2021,51,-,porcarii,fastfood,cheltuieli,
+11/08/2021,10,-,servicii,google,cheltuieli,
+16/09/2021,"2,4",-,porcarii,3in1,cheltuieli,
+16/09/2021,6,-,alimente,,cheltuieli,
+10/09/2021,"6,1",-,porcarii,chipsuri,cheltuieli,
+10/09/2021,"9,13",-,alimente,,cheltuieli,
+12/09/2021,"2,55",-,apa,,cheltuieli,
+12/09/2021,"15,7",-,alimente,,cheltuieli,
+19/09/2021,30,-,ingrijire personala,,cheltuieli,
+08/09/2021,"6,5",-,alimente,,cheltuieli,
+13/09/2021,"12,5",-,apa,,cheltuieli,
+13/09/2021,"8,3",-,alimente,,cheltuieli,
+11/09/2021,"6,8",-,alimente,,cheltuieli,
+11/09/2021,53,-,porcarii,,cheltuieli,
+24/08/2021,"8,8",-,alimente,,cheltuieli,
+24/08/2021,6,-,porcarii,,cheltuieli,
+03/09/2021,3,-,porcarii,3in1,cheltuieli,
+03/09/2021,40,-,alimente,,cheltuieli,
+06/09/2021,"17,4",-,pentru casa,,cheltuieli,masti
+06/09/2021,"2,6",-,porcarii,,cheltuieli,
+06/09/2021,2,-,porcarii,3in1,cheltuieli,
+06/09/2021,41,-,alimente,,cheltuieli,
+17/09/2021,145,-,transport,adjudeni,cheltuieli,
+13/09/2021,85,-,porcarii,fastfood,cheltuieli,
+12/09/2021,15,-,other,,cheltuieli,ivelo
+12/09/2021,18,-,porcarii,fastfood,cheltuieli,
+10/09/2021,57,-,porcarii,fastfood,cheltuieli,
+10/09/2021,16714,-,salariu,radu,venit,
+10/09/2021,8000,- ,salariu,irina,venit,
+09/09/2021,69,-,mancare comandata,,cheltuieli,
+08/08/2021,"35,2",-,mancare comandata,,cheltuieli,
+17/09/2021,40,-,facturi,internet,cheltuieli,
+17/09/2021,102,-,facturi,curent,cheltuieli,
+17/09/2021,20,-,ingrijire personala,pensat,cheltuieli,
+16/09/2021,40,-,other,,cheltuieli,
+14/09/2021,15,,pentru casa,other,cheltuieli,prosop
+14/09/2021,15,,alimente,,cheltuieli,
+17/09/2021,23,,medicamente,,cheltuieli,
+01/09/2021,1250,,facturi,chirie,cheltuieli,
+10/09/2021,10,,servicii,google,cheltuieli,
+07/09/2021,38,,porcarii,fastfood,cheltuieli,
+06/09/2021,53,,pentru casa,electrocasnice,cheltuieli,mini-mixer
+05/09/2021,181,,vacanta,transport,cheltuieli,
+03/10/2021,75,-,transport,adjudeni,cheltuieli,
+03/10/2021,16,-,other,,cheltuieli,
+03/10/2021,60,,servicii,netflix,cheltuieli,
+25/09/2021,142,,facturi,intretinere,cheltuieli,
+18/09/2021,27,subway,porcarii,fastfood,cheltuieli,
+19/09/2021,26,,alimente,,cheltuieli,
+19/09/2021,3,,porcarii,3in1,cheltuieli,
+19/09/2021,"18,5",,porcarii,fastfood,cheltuieli,
+19/09/2021,80,,porcarii,fastfood,cheltuieli,
+03/10/2021,1250,,facturi,chirie,cheltuieli,
+03/10/2021,"15,5",,alimente,,cheltuieli,
+03/10/2021,"1,5",,alimente,,cheltuieli,
+25/09/2021,106,,cadouri,other,cheltuieli,mama
+25/09/2021,40,,ingrijire personala,tuns,cheltuieli,
+18/09/2021,19,,porcarii,fastfood,cheltuieli,
+03/10/2021,10,,donatii,,cheltuieli,
+05/10/2021,44,,porcarii,fastfood,cheltuieli,
+06/10/2021,53,,porcarii,fastfood,cheltuieli,
+07/10/2021,6,,transport,metrorex,cheltuieli,
+06/10/2021,"0,6",,porcarii,3in1,cheltuieli,
+06/10/2021,"12,46",,apa,,cheltuieli,
+08/10/2021,880,,cadouri,nunti,cheltuieli,nunta roxana
+07/10/2021,50,,transport,metrorex,cheltuieli,
+08/10/2021,64,,other,,cheltuieli,silicon pentru pantofi
+09/10/2021,40,,facturi,internet,cheltuieli,
+09/10/2021,66,,facturi,curent,cheltuieli,
+09/10/2021,63,,porcarii,fastfood,cheltuieli,
+09/10/2021,"2,6",,porcarii,3in1,cheltuieli,
+09/10/2021,"3,9",,porcarii,dulciuri,cheltuieli,
+09/10/2021,"6,76",,alimente,,cheltuieli,
+10/10/2021,"72,25",,alimente,,cheltuieli,
+10/10/2021,"5,25",,porcarii,,cheltuieli,
+28/08/2021,5000,,imprumuturi,,cheltuieli,vlad de la brasov
